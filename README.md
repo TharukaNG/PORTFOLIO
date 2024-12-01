@@ -20,7 +20,7 @@ Key Outcome:
 Overview:
 This Power BI dashboard highlights essential Marketing KPIs like impressions, clicks, and conversions, which measure the campaign effectiveness. Designed for actionable insights, it helps to evaluate audience engagement, optimize spending, and track performance trends.
 
-📝NOTE: Dataset preparation: ChatGPT is used to get the campaign mapping names as the source dataset only has the campaign IDs. It is uploaded to Google Sheets to make it accessible to users.
+📝NOTE: Dataset preparation: ChatGPT is used to get the campaign mapping names as the source dataset only has the campaign IDs. It is uploaded to Google Sheets to make it accessible.
 
 <br>
 
