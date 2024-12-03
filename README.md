@@ -31,3 +31,21 @@ Tools: Power BI, Power Query, GoogleSheet, ChatGPT
 <br>
 Key Outcome:
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFjZDVmZDQtNWM2Zi00NjRkLWE4N2ItNmE2YTRhZjhmNzgzIiwidCI6ImZiNTI2ZDFmLWI4NWItNGVkMy04MzY3LTAzMWJjMTI1Njk3OSIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
+
+<br>
+
+<h2> Turf Course Analysis </h2> 
+
+Overview:
+This dashboard provides insights into turf maintenance, focusing on sustainability by tracking water, chemical, and energy usage. It helps to identify inefficiencies, supports decision-making to optimize resource usage, and aligns practices with industry standards. The goal is to maintain high-quality turf while minimizing environmental impact and achieving sustainable management.
+
+<br>
+
+Source: [Mockaroo](https://www.mockaroo.com/) dataset preparation is used create the dataset
+<br>
+Tools: Power BI, Power Query<br>
+Key Outcome:
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFiMmYwZDItMGRmOC00ZTBkLWJmZjEtNzUyMjIzYjc2MTMzIiwidCI6ImZiNTI2ZDFmLWI4NWItNGVkMy04MzY3LTAzMWJjMTI1Njk3OSIsImMiOjEwfQ%3D%3D)
+
+
+
