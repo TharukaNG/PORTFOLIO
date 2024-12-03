@@ -47,7 +47,7 @@ Source: [Dataset prepared by Mockaroo](https://docs.google.com/spreadsheets/d/1q
 
 Tools: Power BI, Power Query<br>
 Key Outcome:
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFiMmYwZDItMGRmOC00ZTBkLWJmZjEtNzUyMjIzYjc2MTMzIiwidCI6ImZiNTI2ZDFmLWI4NWItNGVkMy04MzY3LTAzMWJjMTI1Njk3OSIsImMiOjEwfQ%3D%3D)
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFiMmYwZDItMGRmOC00ZTBkLWJmZjEtNzUyMjIzYjc2MTMzIiwidCI6ImZiNTI2ZDFmLWI4NWItNGVkMy04MzY3LTAzMWJjMTI1Njk3OSIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
 
 <br>
 
