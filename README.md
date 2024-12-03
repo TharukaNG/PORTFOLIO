@@ -41,11 +41,32 @@ This dashboard provides insights into turf maintenance, focusing on sustainabili
 
 <br>
 
-Source: [Mockaroo](https://www.mockaroo.com/) dataset preparation is used create the dataset
+Source: [Dataset prepared by Mockaroo](https://docs.google.com/spreadsheets/d/1qHhKiHN1J1SCiCWk3cYXhSnDxqTlGxoovO9j_v5FeqY/edit?usp=sharing)<br>
+📝NOTE: [Mockaroo](https://www.mockaroo.com/) is used to create the dataset related to IoT data. 
 <br>
+
 Tools: Power BI, Power Query<br>
 Key Outcome:
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFiMmYwZDItMGRmOC00ZTBkLWJmZjEtNzUyMjIzYjc2MTMzIiwidCI6ImZiNTI2ZDFmLWI4NWItNGVkMy04MzY3LTAzMWJjMTI1Njk3OSIsImMiOjEwfQ%3D%3D)
+
+<br>
+
+<h2> Turf Disease Analysis </h2> 
+
+Overview:
+
+The Power BI dashboard offers insights into prevalent golf course diseases, focusing on Fusarium and Dollar Spot and their seasonal patterns. It highlights how climate factors influence these diseases and enables greenkeepers to take proactive actions to prevent them effectively.
+
+<br>
+
+Source: [Belgium Golf Courses](https://www.top100golfcourses.com/golf-courses/continental-europe/belgium) | [Kaggle](https://data.europa.eu/data/datasets/average-rainfall-temperature?locale=en) | [Dataset prepared by Mockaroo](https://docs.google.com/spreadsheets/d/11iONQw5AhRw4D3gDdiaAHlGLLixmLH6n-CacL4_JfyU/edit?usp=sharing)<br>
+📝NOTE: [Mockaroo](https://www.mockaroo.com/) is used to create the dataset related to IoT data. 
+<br>
+Tools: Power BI, Power Query, SQL Server
+<br>
+
+Key Outcome:
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjE2NGMwNTktZGY3My00M2JmLTgwZjMtOGNmOWUyNTJkYTdkIiwidCI6ImZiNTI2ZDFmLWI4NWItNGVkMy04MzY3LTAzMWJjMTI1Njk3OSIsImMiOjEwfQ%3D%3D)
 
 
 
