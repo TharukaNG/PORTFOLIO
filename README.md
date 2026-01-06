@@ -1,5 +1,24 @@
 # PORTFOLIO PROJECTS
 
+<h2> SSIS Project to export images from SQL Server DB </h2> 
+Overview:
+This project provides two easy methods to export images residing in a SQL Server database table, with the use of SQL Server Integration Services (SSIS)
+<br>
+<br>
+
+Steps are mentioned in this [Blog](https://datatwist.wordpress.com/2021/02/14/export-images-using-ssis-export-column/)
+<br>
+Tools: SSIS, SQL Server DB
+<br>
+<br>
+Project files are available in the following repos:
+<br>
+[SSIS Photo Extraction Solution 1](https://github.com/TharukaNG/SSIS_PhotoExtraction_Sol1/tree/master)
+<br>
+[SSIS Photo Extraction Solution 2](https://github.com/TharukaNG/SSIS_PhotoExtraction_Sol2/tree/main)
+
+<br>
+
 <h2> Sales Performance Dashboard </h2> 
 Overview:
 This interactive dashboard provides a comprehensive analysis of the KPIs, trends, and regional performance to support data-driven decision-making for sales managers.
